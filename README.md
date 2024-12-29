@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @austinez
-- 👀 I’m interested in web development and UI
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front end development
+- 💞️ I’m looking to collaborate onWeb development projects
 - 📫 How to reach me austinchuks19@gmail.com
 
 <!---
