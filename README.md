@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austinez
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I have experience working with HTML,CSS,PHP AND JAVASCRIPT
 - 💞️ I’m looking to collaborate onWeb development projects
 - 📫 How to reach me austinchuks19@gmail.com
 
